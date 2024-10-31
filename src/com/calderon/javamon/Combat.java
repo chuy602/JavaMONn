@@ -8,6 +8,7 @@ public class Combat {
 	private Javamon javamon2;
 	
 	
+	
 	public Combat(Javamon javamon1, Javamon javamon2) {
 		super();
 		this.javamon1 = javamon1;
